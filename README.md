@@ -58,9 +58,5 @@ The **Brain Stroke Prediction Model** leverages **Convolutional Neural Networks 
 ## 🤝 Contributions
 Feel free to fork this repository, make improvements, and submit a pull request. Suggestions and feedback are always welcome! 😊
 
-## 📜 License
-This project is under the **MIT License**.
-
----
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Firdous Anjum.
 
