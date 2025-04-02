@@ -1,4 +1,3 @@
-# Brain-Stroke-Prediction-CNN-
 # Brain Stroke Prediction Model (CNN)
 
 ## 📌 Overview
